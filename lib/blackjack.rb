@@ -70,4 +70,3 @@ end_game(card_total)
 end
 welcome
 end
-end 
